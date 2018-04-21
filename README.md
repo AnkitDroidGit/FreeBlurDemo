@@ -1,4 +1,9 @@
 # FreeBlurDemo
+# Used in live app
+[Download App](https://play.google.com/store/apps/details?id=com.freeankit.ankitprofile) and Traverse through
+- Hamburger -> Projects -> Select any project -> Tap on Project Image.
+
+## A demo is shown here
 
 ![GIF](https://github.com/AnkitDroidGit/FreeBlurDemo/blob/master/app/art/video_blur.gif)
 
